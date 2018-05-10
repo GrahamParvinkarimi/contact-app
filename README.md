@@ -3,6 +3,7 @@ SPA in React for maintaining contact information. Hosted live at: https://graham
 All of the source code files that I wrote for this project are located in the contact-app/src directory.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+[Semantic UI React](https://react.semantic-ui.com/introduction) was also used.
 
 ## Run the app locally
 
@@ -10,9 +11,7 @@ To run the app locally, clone or download the project and run the following comm
 
 ### `npm install`
 
-### `npm install semantic-ui --save`
-
-### `npm install semantic-ui-css --save`
+### `npm install semantic-ui-react --save`
 
 ### `npm start`
 
