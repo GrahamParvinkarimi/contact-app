@@ -1,5 +1,7 @@
 SPA in React for maintaining contact information. Hosted live at: https://grahamparvinkarimi.github.io/contact-app/
 
+All of the source code files that I wrote for this project are located in the contact-app/src directory.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Run the app locally
