@@ -1,4 +1,4 @@
-SPA in React for maintaining contact information
+SPA in React for maintaining contact information. Hosted live at: https://grahamparvinkarimi.github.io/contact-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
